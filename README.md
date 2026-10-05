@@ -44,5 +44,5 @@ Swift Swipe Tracker can be used for:
 Contributions are welcome. Feel free to fork the project, make improvements, and submit a pull request.
   License
 This project is licensed under the MIT License.
-👨‍💻 Author
+Author
 Kanishkar
